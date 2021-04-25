@@ -1,0 +1,105 @@
+.logo {
+    height: 100px;
+    width:100px;
+}
+
+.arka-plan {
+   background-color:#48466d;
+   height: 150px; 
+   margin-bottom: 10px;
+}
+
+a {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:#defcf9;
+    position: relative;
+    bottom: 110px;
+    left: 100px;
+    margin-right: 10px;
+}
+
+a:hover {
+    color:#5aa897;
+}
+
+#satıs {
+    margin-left: 120px;
+}
+
+.h1 {
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #defcf9;
+    position: relative;
+    bottom: 100px;
+}
+h2 {
+    color: honeydew;
+}
+.h3 {
+    text-align: center;
+    color: honeydew;
+}
+.sosyalmedya {
+    margin-left: 900px ;
+    position: relative;
+    bottom: 90px;
+}
+.content {
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(38, 9, 54) ;
+    background-color:#48466d ;
+    position: relative;
+    width: 980px;
+    height: 1400px;
+    float: left;
+
+}
+button {
+    background-color: rgb(38, 9, 54);
+    border:1px solid green;
+    width:150px;
+    height:150px;
+    border-radius: 50px;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+}
+
+.sidebar {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:#48466d;
+    color: #defcf9;
+    width: 275px;;
+    height:390px;
+    float:right;  
+}
+
+.footer {
+    text-align: center;
+    background-color:gray;
+    height: 100px; 
+    margin-top: 1430px;
+    bottom: 0px; 
+    top: 0px; 
+}
+
+.footertext {
+    position: relative;
+    top: 40px;
+}
+.content-hakkımda {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:#48466d;
+    color: rgb(38, 9, 54);
+    width: 500px;;
+    height:400px;
+    float:none;
+}
+
+.footer-hakkımda {
+    text-align: center;
+    background-color:gray;
+    height: 100px; 
+
+}
